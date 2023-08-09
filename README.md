@@ -17,6 +17,6 @@ numeros naturales a numeros romanos.
 
 ### Tecnologias Usadas
 - Java 8
-- JVR
+- JRE y JDK
 
 Autor: Marcos García
